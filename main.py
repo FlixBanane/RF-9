@@ -19,7 +19,7 @@ import time
 MAX_RETRIES = 2  # Le nombre de tentatives pour retélécharger le fichier
 
 # Créez une instance de client avec votre propre token de bot et votre nom d'utilisateur
-app = Client("TEST_BÊTA", bot_token="6863934525:AAH5saeFht0RhxWxEsfBQOYyqgQ6XZGn4X8", api_id="21648908", api_hash="a6f834b1a8f86046078f05bfe34c0a5f")
+app = Client("TEST_BÊTA", bot_token="6895587323:AAGB45WJEW_ZMFPCFNqX1-6Fjo4QJ9EFjDE", api_id="21648908", api_hash="a6f834b1a8f86046078f05bfe34c0a5f")
 Admin_id = 6217351762
 
 # Créez un sémaphore avec une limite de 1
