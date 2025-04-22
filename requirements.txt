@@ -1,0 +1,4 @@
+Pyrogram == 2.0.106
+Pillow == 9.4.0
+TgCrypto == 1.2.5
+flask
